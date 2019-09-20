@@ -7,7 +7,9 @@ namespace média_escolar
         static void Main(string[] args)
         {
             Console.WriteLine("App de Média escolar");
-            
+             
+
+             
             //Entrada de dados
             Console.WriteLine("Digite o seu nome");
             string nome = Console.ReadLine();
