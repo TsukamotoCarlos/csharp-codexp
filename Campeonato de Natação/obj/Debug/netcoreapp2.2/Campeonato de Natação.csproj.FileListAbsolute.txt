@@ -1,0 +1,11 @@
+E:\Desktop\Csharp\Campeonato de Natação\obj\Debug\netcoreapp2.2\Campeonato de Natação.csprojAssemblyReference.cache
+E:\Desktop\Csharp\Campeonato de Natação\obj\Debug\netcoreapp2.2\Campeonato de Natação.csproj.CoreCompileInputs.cache
+E:\Desktop\Csharp\Campeonato de Natação\obj\Debug\netcoreapp2.2\Campeonato de Natação.AssemblyInfoInputs.cache
+E:\Desktop\Csharp\Campeonato de Natação\obj\Debug\netcoreapp2.2\Campeonato de Natação.AssemblyInfo.cs
+E:\Desktop\Csharp\Campeonato de Natação\bin\Debug\netcoreapp2.2\Campeonato de Natação.deps.json
+E:\Desktop\Csharp\Campeonato de Natação\bin\Debug\netcoreapp2.2\Campeonato de Natação.runtimeconfig.json
+E:\Desktop\Csharp\Campeonato de Natação\bin\Debug\netcoreapp2.2\Campeonato de Natação.runtimeconfig.dev.json
+E:\Desktop\Csharp\Campeonato de Natação\bin\Debug\netcoreapp2.2\Campeonato de Natação.dll
+E:\Desktop\Csharp\Campeonato de Natação\bin\Debug\netcoreapp2.2\Campeonato de Natação.pdb
+E:\Desktop\Csharp\Campeonato de Natação\obj\Debug\netcoreapp2.2\Campeonato de Natação.dll
+E:\Desktop\Csharp\Campeonato de Natação\obj\Debug\netcoreapp2.2\Campeonato de Natação.pdb

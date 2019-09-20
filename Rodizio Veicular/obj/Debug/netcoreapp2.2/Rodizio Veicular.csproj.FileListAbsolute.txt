@@ -1,0 +1,11 @@
+E:\Desktop\Csharp\Rodizio Veicular\bin\Debug\netcoreapp2.2\Rodizio Veicular.deps.json
+E:\Desktop\Csharp\Rodizio Veicular\bin\Debug\netcoreapp2.2\Rodizio Veicular.runtimeconfig.json
+E:\Desktop\Csharp\Rodizio Veicular\bin\Debug\netcoreapp2.2\Rodizio Veicular.runtimeconfig.dev.json
+E:\Desktop\Csharp\Rodizio Veicular\bin\Debug\netcoreapp2.2\Rodizio Veicular.dll
+E:\Desktop\Csharp\Rodizio Veicular\bin\Debug\netcoreapp2.2\Rodizio Veicular.pdb
+E:\Desktop\Csharp\Rodizio Veicular\obj\Debug\netcoreapp2.2\Rodizio Veicular.csprojAssemblyReference.cache
+E:\Desktop\Csharp\Rodizio Veicular\obj\Debug\netcoreapp2.2\Rodizio Veicular.csproj.CoreCompileInputs.cache
+E:\Desktop\Csharp\Rodizio Veicular\obj\Debug\netcoreapp2.2\Rodizio Veicular.AssemblyInfoInputs.cache
+E:\Desktop\Csharp\Rodizio Veicular\obj\Debug\netcoreapp2.2\Rodizio Veicular.AssemblyInfo.cs
+E:\Desktop\Csharp\Rodizio Veicular\obj\Debug\netcoreapp2.2\Rodizio Veicular.dll
+E:\Desktop\Csharp\Rodizio Veicular\obj\Debug\netcoreapp2.2\Rodizio Veicular.pdb

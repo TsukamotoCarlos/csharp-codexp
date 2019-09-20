@@ -1,0 +1,11 @@
+E:\Desktop\Csharp\Aumento salarial\bin\Debug\netcoreapp2.2\Aumento salarial.deps.json
+E:\Desktop\Csharp\Aumento salarial\bin\Debug\netcoreapp2.2\Aumento salarial.runtimeconfig.json
+E:\Desktop\Csharp\Aumento salarial\bin\Debug\netcoreapp2.2\Aumento salarial.runtimeconfig.dev.json
+E:\Desktop\Csharp\Aumento salarial\bin\Debug\netcoreapp2.2\Aumento salarial.dll
+E:\Desktop\Csharp\Aumento salarial\bin\Debug\netcoreapp2.2\Aumento salarial.pdb
+E:\Desktop\Csharp\Aumento salarial\obj\Debug\netcoreapp2.2\Aumento salarial.csprojAssemblyReference.cache
+E:\Desktop\Csharp\Aumento salarial\obj\Debug\netcoreapp2.2\Aumento salarial.csproj.CoreCompileInputs.cache
+E:\Desktop\Csharp\Aumento salarial\obj\Debug\netcoreapp2.2\Aumento salarial.AssemblyInfoInputs.cache
+E:\Desktop\Csharp\Aumento salarial\obj\Debug\netcoreapp2.2\Aumento salarial.AssemblyInfo.cs
+E:\Desktop\Csharp\Aumento salarial\obj\Debug\netcoreapp2.2\Aumento salarial.dll
+E:\Desktop\Csharp\Aumento salarial\obj\Debug\netcoreapp2.2\Aumento salarial.pdb

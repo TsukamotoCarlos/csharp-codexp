@@ -1,0 +1,11 @@
+E:\Desktop\Csharp\Cargos com Switch\bin\Debug\netcoreapp2.2\Cargos com Switch.deps.json
+E:\Desktop\Csharp\Cargos com Switch\bin\Debug\netcoreapp2.2\Cargos com Switch.runtimeconfig.json
+E:\Desktop\Csharp\Cargos com Switch\bin\Debug\netcoreapp2.2\Cargos com Switch.runtimeconfig.dev.json
+E:\Desktop\Csharp\Cargos com Switch\bin\Debug\netcoreapp2.2\Cargos com Switch.dll
+E:\Desktop\Csharp\Cargos com Switch\bin\Debug\netcoreapp2.2\Cargos com Switch.pdb
+E:\Desktop\Csharp\Cargos com Switch\obj\Debug\netcoreapp2.2\Cargos com Switch.csprojAssemblyReference.cache
+E:\Desktop\Csharp\Cargos com Switch\obj\Debug\netcoreapp2.2\Cargos com Switch.csproj.CoreCompileInputs.cache
+E:\Desktop\Csharp\Cargos com Switch\obj\Debug\netcoreapp2.2\Cargos com Switch.AssemblyInfoInputs.cache
+E:\Desktop\Csharp\Cargos com Switch\obj\Debug\netcoreapp2.2\Cargos com Switch.AssemblyInfo.cs
+E:\Desktop\Csharp\Cargos com Switch\obj\Debug\netcoreapp2.2\Cargos com Switch.dll
+E:\Desktop\Csharp\Cargos com Switch\obj\Debug\netcoreapp2.2\Cargos com Switch.pdb
