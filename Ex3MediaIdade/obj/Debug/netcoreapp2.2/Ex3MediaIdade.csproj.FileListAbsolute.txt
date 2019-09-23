@@ -1,0 +1,11 @@
+E:\Desktop\csharp-codexp\Ex3MediaIdade\obj\Debug\netcoreapp2.2\Ex3MediaIdade.csprojAssemblyReference.cache
+E:\Desktop\csharp-codexp\Ex3MediaIdade\obj\Debug\netcoreapp2.2\Ex3MediaIdade.csproj.CoreCompileInputs.cache
+E:\Desktop\csharp-codexp\Ex3MediaIdade\obj\Debug\netcoreapp2.2\Ex3MediaIdade.AssemblyInfoInputs.cache
+E:\Desktop\csharp-codexp\Ex3MediaIdade\obj\Debug\netcoreapp2.2\Ex3MediaIdade.AssemblyInfo.cs
+E:\Desktop\csharp-codexp\Ex3MediaIdade\bin\Debug\netcoreapp2.2\Ex3MediaIdade.deps.json
+E:\Desktop\csharp-codexp\Ex3MediaIdade\bin\Debug\netcoreapp2.2\Ex3MediaIdade.runtimeconfig.json
+E:\Desktop\csharp-codexp\Ex3MediaIdade\bin\Debug\netcoreapp2.2\Ex3MediaIdade.runtimeconfig.dev.json
+E:\Desktop\csharp-codexp\Ex3MediaIdade\bin\Debug\netcoreapp2.2\Ex3MediaIdade.dll
+E:\Desktop\csharp-codexp\Ex3MediaIdade\bin\Debug\netcoreapp2.2\Ex3MediaIdade.pdb
+E:\Desktop\csharp-codexp\Ex3MediaIdade\obj\Debug\netcoreapp2.2\Ex3MediaIdade.dll
+E:\Desktop\csharp-codexp\Ex3MediaIdade\obj\Debug\netcoreapp2.2\Ex3MediaIdade.pdb

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Desktop\\csharp-codexp\\Agência de Turismo\\Agência de Turismo.csproj",
-      "projectName": "Agência de Turismo",
-      "projectPath": "E:\\Desktop\\csharp-codexp\\Agência de Turismo\\Agência de Turismo.csproj",
+      "projectUniqueName": "E:\\Desktop\\csharp-codexp\\Ex3MediaIdade\\Ex3MediaIdade.csproj",
+      "projectName": "Ex3MediaIdade",
+      "projectPath": "E:\\Desktop\\csharp-codexp\\Ex3MediaIdade\\Ex3MediaIdade.csproj",
       "packagesPath": "C:\\Users\\Tsukamoto\\.nuget\\packages\\",
-      "outputPath": "E:\\Desktop\\csharp-codexp\\Agência de Turismo\\obj\\",
+      "outputPath": "E:\\Desktop\\csharp-codexp\\Ex3MediaIdade\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

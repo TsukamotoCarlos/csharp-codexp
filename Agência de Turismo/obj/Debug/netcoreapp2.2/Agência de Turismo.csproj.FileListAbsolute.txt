@@ -9,3 +9,14 @@ E:\Desktop\Csharp\Agência de Turismo\obj\Debug\netcoreapp2.2\Agência de Turism
 E:\Desktop\Csharp\Agência de Turismo\obj\Debug\netcoreapp2.2\Agência de Turismo.AssemblyInfo.cs
 E:\Desktop\Csharp\Agência de Turismo\obj\Debug\netcoreapp2.2\Agência de Turismo.dll
 E:\Desktop\Csharp\Agência de Turismo\obj\Debug\netcoreapp2.2\Agência de Turismo.pdb
+E:\Desktop\csharp-codexp\Agência de Turismo\obj\Debug\netcoreapp2.2\Agência de Turismo.csprojAssemblyReference.cache
+E:\Desktop\csharp-codexp\Agência de Turismo\obj\Debug\netcoreapp2.2\Agência de Turismo.csproj.CoreCompileInputs.cache
+E:\Desktop\csharp-codexp\Agência de Turismo\obj\Debug\netcoreapp2.2\Agência de Turismo.AssemblyInfoInputs.cache
+E:\Desktop\csharp-codexp\Agência de Turismo\obj\Debug\netcoreapp2.2\Agência de Turismo.AssemblyInfo.cs
+E:\Desktop\csharp-codexp\Agência de Turismo\obj\Debug\netcoreapp2.2\Agência de Turismo.dll
+E:\Desktop\csharp-codexp\Agência de Turismo\obj\Debug\netcoreapp2.2\Agência de Turismo.pdb
+E:\Desktop\csharp-codexp\Agência de Turismo\bin\Debug\netcoreapp2.2\Agência de Turismo.deps.json
+E:\Desktop\csharp-codexp\Agência de Turismo\bin\Debug\netcoreapp2.2\Agência de Turismo.runtimeconfig.json
+E:\Desktop\csharp-codexp\Agência de Turismo\bin\Debug\netcoreapp2.2\Agência de Turismo.runtimeconfig.dev.json
+E:\Desktop\csharp-codexp\Agência de Turismo\bin\Debug\netcoreapp2.2\Agência de Turismo.dll
+E:\Desktop\csharp-codexp\Agência de Turismo\bin\Debug\netcoreapp2.2\Agência de Turismo.pdb

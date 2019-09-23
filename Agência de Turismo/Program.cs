@@ -8,10 +8,10 @@ namespace Agência_de_Turismo
         {
             Console.WriteLine("Agência de Turismo");
 
-            string[] nome;
-            string[] origem;
-            string[] destino;
-            DateTime[] data;
+            string[] nome = new string[2];
+            string[] origem = new string[2];
+            string[] destino = new string[2];
+            DateTime[] data = new DateTime[2];
 
             int opcao = 0, contador = 0;
 
