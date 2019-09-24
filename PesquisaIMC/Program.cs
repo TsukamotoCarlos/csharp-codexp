@@ -6,6 +6,7 @@ namespace PesquisaIMC
     {
         static void Main(string[] args)
         {
+            
             string[] nome = new string[2];
             int[] idade = new int[2];
             double[] peso = new double[2];
