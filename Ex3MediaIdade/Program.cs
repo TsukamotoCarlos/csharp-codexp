@@ -22,7 +22,7 @@ namespace Ex3MediaIdade
                     menorIdade++;
                 }
                 contador++;
-            }
+            }//fim while
             Console.WriteLine($"Total de Maiores = {maiorIdade} e Menores = {menorIdade}");
         }
     }

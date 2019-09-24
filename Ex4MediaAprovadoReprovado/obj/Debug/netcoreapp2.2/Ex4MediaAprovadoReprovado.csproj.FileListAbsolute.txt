@@ -1,0 +1,11 @@
+E:\Desktop\csharp-codexp\Ex4MediaAprovadoReprovado\bin\Debug\netcoreapp2.2\Ex4MediaAprovadoReprovado.deps.json
+E:\Desktop\csharp-codexp\Ex4MediaAprovadoReprovado\bin\Debug\netcoreapp2.2\Ex4MediaAprovadoReprovado.runtimeconfig.json
+E:\Desktop\csharp-codexp\Ex4MediaAprovadoReprovado\bin\Debug\netcoreapp2.2\Ex4MediaAprovadoReprovado.runtimeconfig.dev.json
+E:\Desktop\csharp-codexp\Ex4MediaAprovadoReprovado\bin\Debug\netcoreapp2.2\Ex4MediaAprovadoReprovado.dll
+E:\Desktop\csharp-codexp\Ex4MediaAprovadoReprovado\bin\Debug\netcoreapp2.2\Ex4MediaAprovadoReprovado.pdb
+E:\Desktop\csharp-codexp\Ex4MediaAprovadoReprovado\obj\Debug\netcoreapp2.2\Ex4MediaAprovadoReprovado.csprojAssemblyReference.cache
+E:\Desktop\csharp-codexp\Ex4MediaAprovadoReprovado\obj\Debug\netcoreapp2.2\Ex4MediaAprovadoReprovado.csproj.CoreCompileInputs.cache
+E:\Desktop\csharp-codexp\Ex4MediaAprovadoReprovado\obj\Debug\netcoreapp2.2\Ex4MediaAprovadoReprovado.AssemblyInfoInputs.cache
+E:\Desktop\csharp-codexp\Ex4MediaAprovadoReprovado\obj\Debug\netcoreapp2.2\Ex4MediaAprovadoReprovado.AssemblyInfo.cs
+E:\Desktop\csharp-codexp\Ex4MediaAprovadoReprovado\obj\Debug\netcoreapp2.2\Ex4MediaAprovadoReprovado.dll
+E:\Desktop\csharp-codexp\Ex4MediaAprovadoReprovado\obj\Debug\netcoreapp2.2\Ex4MediaAprovadoReprovado.pdb

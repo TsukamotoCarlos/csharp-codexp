@@ -1,0 +1,11 @@
+E:\Desktop\csharp-codexp\CadastroProdutosComFor\obj\Debug\netcoreapp2.2\CadastroProdutosComFor.csprojAssemblyReference.cache
+E:\Desktop\csharp-codexp\CadastroProdutosComFor\obj\Debug\netcoreapp2.2\CadastroProdutosComFor.csproj.CoreCompileInputs.cache
+E:\Desktop\csharp-codexp\CadastroProdutosComFor\obj\Debug\netcoreapp2.2\CadastroProdutosComFor.AssemblyInfoInputs.cache
+E:\Desktop\csharp-codexp\CadastroProdutosComFor\obj\Debug\netcoreapp2.2\CadastroProdutosComFor.AssemblyInfo.cs
+E:\Desktop\csharp-codexp\CadastroProdutosComFor\bin\Debug\netcoreapp2.2\CadastroProdutosComFor.deps.json
+E:\Desktop\csharp-codexp\CadastroProdutosComFor\bin\Debug\netcoreapp2.2\CadastroProdutosComFor.runtimeconfig.json
+E:\Desktop\csharp-codexp\CadastroProdutosComFor\bin\Debug\netcoreapp2.2\CadastroProdutosComFor.runtimeconfig.dev.json
+E:\Desktop\csharp-codexp\CadastroProdutosComFor\bin\Debug\netcoreapp2.2\CadastroProdutosComFor.dll
+E:\Desktop\csharp-codexp\CadastroProdutosComFor\bin\Debug\netcoreapp2.2\CadastroProdutosComFor.pdb
+E:\Desktop\csharp-codexp\CadastroProdutosComFor\obj\Debug\netcoreapp2.2\CadastroProdutosComFor.dll
+E:\Desktop\csharp-codexp\CadastroProdutosComFor\obj\Debug\netcoreapp2.2\CadastroProdutosComFor.pdb
